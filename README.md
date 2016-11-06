@@ -61,7 +61,8 @@ Activity生命周期
 熟悉Activity生命周期，使用Logcat观察各回调函数调用次序。
 要求：
 ####1.了解Activity生命周期
-####2.了解回掉函数调用次序####3.了解各回调函数基本用途。
+####2.了解回掉函数调用次序
+####3.了解各回调函数基本用途。
 ####4.将代码上传到github上。
 ####5.将遇到的问题、分析与理解、知识点小结等上传到gitbook上去。
 ##9.AndroidText9_AnotherActivity
@@ -71,7 +72,8 @@ Activity生命周期
 ####1.掌握添加Activity方法
 ####2.理解AndroidManifest.XML关于Activity的基本配置
 ####3.掌握使用Intent在两个Activity之间跳转。
-####4.将代码上传到github上。####5.将遇到的问题、分析与理解、知识点小结等上传到gitbook上去。
+####4.将代码上传到github上。
+####5.将遇到的问题、分析与理解、知识点小结等上传到gitbook上去。
 ##10.AndroidText10_ActivityOneWaySendData
 Activity间单向传递数据
 掌握在两个Activity之间如何传递数据，其中数据有String、int等多种格式。
