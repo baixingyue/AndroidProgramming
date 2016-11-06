@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidText30_Drawing/AndroidText30_Drawing.iml" filepath="$PROJECT_DIR$/AndroidText30_Drawing/AndroidText30_Drawing.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidText3_Componet/AndroidText3_Componet.iml" filepath="$PROJECT_DIR$/AndroidText3_Componet/AndroidText3_Componet.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidText4_ListView/AndroidText4_ListView.iml" filepath="$PROJECT_DIR$/AndroidText4_ListView/AndroidText4_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText5_RecyclerView/AndroidText5_RecyclerView.iml" filepath="$PROJECT_DIR$/AndroidText5_RecyclerView/AndroidText5_RecyclerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidText6_Menu/AndroidText6_Menu.iml" filepath="$PROJECT_DIR$/AndroidText6_Menu/AndroidText6_Menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidText7_Dialog/AndroidText7_Dialog.iml" filepath="$PROJECT_DIR$/AndroidText7_Dialog/AndroidText7_Dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidText8_LifeCycle/AndroidText8_LifeCycle.iml" filepath="$PROJECT_DIR$/AndroidText8_LifeCycle/AndroidText8_LifeCycle.iml" />
