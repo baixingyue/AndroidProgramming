@@ -1,0 +1,15 @@
+<resources>
+        <string name="app_name">AndroidText20_SQLite</string>
+        <string name="action_settings">Settings</string>
+        <string name="hello_world">Hello world!</string>
+         
+        <string name="title">我的生词本</string>
+        <string name="search">查询</string>
+        <string name="add">添加</string>
+        <string name="reset">重置</string>
+        <string name="exit">退出</string>
+        <string name="word">单词</string>
+        <string name="interpret">解释</string>
+         
+        <string name="hint">很遗憾，还没有相关记录！</string>
+</resources>

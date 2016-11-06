@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidProgramming.iml" filepath="$PROJECT_DIR$/AndroidProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidTetx16_IntentFilter/AndroidTetx16_IntentFilter.iml" filepath="$PROJECT_DIR$/AndroidTetx16_IntentFilter/AndroidTetx16_IntentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText10_ActivityOneWaySendData/AndroidText10_ActivityOneWaySendData.iml" filepath="$PROJECT_DIR$/AndroidText10_ActivityOneWaySendData/AndroidText10_ActivityOneWaySendData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText11_ActivityTwoWaySendData/AndroidText11_ActivityTwoWaySendData.iml" filepath="$PROJECT_DIR$/AndroidText11_ActivityTwoWaySendData/AndroidText11_ActivityTwoWaySendData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText12_Fragment/AndroidText12_Fragment.iml" filepath="$PROJECT_DIR$/AndroidText12_Fragment/AndroidText12_Fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText13_HorizontalScreen_and_VerticalScreen/AndroidText13_HorizontalScreen_and_VerticalScreen.iml" filepath="$PROJECT_DIR$/AndroidText13_HorizontalScreen_and_VerticalScreen/AndroidText13_HorizontalScreen_and_VerticalScreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText14_Intent/AndroidText14_Intent.iml" filepath="$PROJECT_DIR$/AndroidText14_Intent/AndroidText14_Intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText15_IntentCallPhone/AndroidText15_IntentCallPhone.iml" filepath="$PROJECT_DIR$/AndroidText15_IntentCallPhone/AndroidText15_IntentCallPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText17_SharedPreferences/AndroidText17_SharedPreferences.iml" filepath="$PROJECT_DIR$/AndroidText17_SharedPreferences/AndroidText17_SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText18_InternalStorage/AndroidText18_InternalStorage.iml" filepath="$PROJECT_DIR$/AndroidText18_InternalStorage/AndroidText18_InternalStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText19_SDFile/AndroidText19_SDFile.iml" filepath="$PROJECT_DIR$/AndroidText19_SDFile/AndroidText19_SDFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText1_HelloWorld/AndroidText1_HelloWorld.iml" filepath="$PROJECT_DIR$/AndroidText1_HelloWorld/AndroidText1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText20_SQLite/AndroidText20_SQLite.iml" filepath="$PROJECT_DIR$/AndroidText20_SQLite/AndroidText20_SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText21_ContentProvider/AndroidText21_ContentProvider.iml" filepath="$PROJECT_DIR$/AndroidText21_ContentProvider/AndroidText21_ContentProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText22_AccessContactorInformation/AndroidText22_AccessContactorInformation.iml" filepath="$PROJECT_DIR$/AndroidText22_AccessContactorInformation/AndroidText22_AccessContactorInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText23_ContentObserver/AndroidText23_ContentObserver.iml" filepath="$PROJECT_DIR$/AndroidText23_ContentObserver/AndroidText23_ContentObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText24_startService/AndroidText24_startService.iml" filepath="$PROJECT_DIR$/AndroidText24_startService/AndroidText24_startService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText25_bindService/AndroidText25_bindService.iml" filepath="$PROJECT_DIR$/AndroidText25_bindService/AndroidText25_bindService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText26_Handler/AndroidText26_Handler.iml" filepath="$PROJECT_DIR$/AndroidText26_Handler/AndroidText26_Handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText27_Broadcast/AndroidText27_Broadcast.iml" filepath="$PROJECT_DIR$/AndroidText27_Broadcast/AndroidText27_Broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText28_MediaPlayer/AndroidText28_MediaPlayer.iml" filepath="$PROJECT_DIR$/AndroidText28_MediaPlayer/AndroidText28_MediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText29_TakePhoto/AndroidText29_TakePhoto.iml" filepath="$PROJECT_DIR$/AndroidText29_TakePhoto/AndroidText29_TakePhoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText2_Logcat/AndroidText2_Logcat.iml" filepath="$PROJECT_DIR$/AndroidText2_Logcat/AndroidText2_Logcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText30_Drawing/AndroidText30_Drawing.iml" filepath="$PROJECT_DIR$/AndroidText30_Drawing/AndroidText30_Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText3_Componet/AndroidText3_Componet.iml" filepath="$PROJECT_DIR$/AndroidText3_Componet/AndroidText3_Componet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText4_ListView/AndroidText4_ListView.iml" filepath="$PROJECT_DIR$/AndroidText4_ListView/AndroidText4_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText6_Menu/AndroidText6_Menu.iml" filepath="$PROJECT_DIR$/AndroidText6_Menu/AndroidText6_Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText7_Dialog/AndroidText7_Dialog.iml" filepath="$PROJECT_DIR$/AndroidText7_Dialog/AndroidText7_Dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText8_LifeCycle/AndroidText8_LifeCycle.iml" filepath="$PROJECT_DIR$/AndroidText8_LifeCycle/AndroidText8_LifeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidText9_AnotherActivity/AndroidText9_AnotherActivity.iml" filepath="$PROJECT_DIR$/AndroidText9_AnotherActivity/AndroidText9_AnotherActivity.iml" />
+    </modules>
+  </component>
+</project>

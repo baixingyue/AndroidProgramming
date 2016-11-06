@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/searchItem"
+            android:orderInCategory="100"
+            android:showAsAction="always"
+            android:title="@string/search"/>
+        <item
+            android:id="@+id/addItem"
+            android:orderInCategory="100"
+            android:showAsAction="always"
+            android:title="@string/add"/>
+        <item
+            android:id="@+id/exit"
+            android:orderInCategory="100"
+            android:showAsAction="always"
+            android:title="@string/exit"/>
+
+    </menu>
+</menu>

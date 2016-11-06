@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidTetx16_IntentFilter" />
+            <option value="$PROJECT_DIR$/AndroidText10_ActivityOneWaySendData" />
+            <option value="$PROJECT_DIR$/AndroidText11_ActivityTwoWaySendData" />
+            <option value="$PROJECT_DIR$/AndroidText12_Fragment" />
+            <option value="$PROJECT_DIR$/AndroidText13_HorizontalScreen_and_VerticalScreen" />
+            <option value="$PROJECT_DIR$/AndroidText14_Intent" />
+            <option value="$PROJECT_DIR$/AndroidText15_IntentCallPhone" />
+            <option value="$PROJECT_DIR$/AndroidText17_SharedPreferences" />
+            <option value="$PROJECT_DIR$/AndroidText18_InternalStorage" />
+            <option value="$PROJECT_DIR$/AndroidText19_SDFile" />
+            <option value="$PROJECT_DIR$/AndroidText1_HelloWorld" />
+            <option value="$PROJECT_DIR$/AndroidText20_SQLite" />
+            <option value="$PROJECT_DIR$/AndroidText21_ContentProvider" />
+            <option value="$PROJECT_DIR$/AndroidText22_AccessContactorInformation" />
+            <option value="$PROJECT_DIR$/AndroidText23_ContentObserver" />
+            <option value="$PROJECT_DIR$/AndroidText24_startService" />
+            <option value="$PROJECT_DIR$/AndroidText25_bindService" />
+            <option value="$PROJECT_DIR$/AndroidText26_Handler" />
+            <option value="$PROJECT_DIR$/AndroidText27_Broadcast" />
+            <option value="$PROJECT_DIR$/AndroidText28_MediaPlayer" />
+            <option value="$PROJECT_DIR$/AndroidText29_TakePhoto" />
+            <option value="$PROJECT_DIR$/AndroidText2_Logcat" />
+            <option value="$PROJECT_DIR$/AndroidText30_Drawing" />
+            <option value="$PROJECT_DIR$/AndroidText3_Componet" />
+            <option value="$PROJECT_DIR$/AndroidText4_ListView" />
+            <option value="$PROJECT_DIR$/AndroidText6_Menu" />
+            <option value="$PROJECT_DIR$/AndroidText7_Dialog" />
+            <option value="$PROJECT_DIR$/AndroidText8_LifeCycle" />
+            <option value="$PROJECT_DIR$/AndroidText9_AnotherActivity" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidTetx16_IntentFilter" />
+            <option value="$PROJECT_DIR$/AndroidText10_ActivityOneWaySendData" />
+            <option value="$PROJECT_DIR$/AndroidText11_ActivityTwoWaySendData" />
+            <option value="$PROJECT_DIR$/AndroidText12_Fragment" />
+            <option value="$PROJECT_DIR$/AndroidText13_HorizontalScreen_and_VerticalScreen" />
+            <option value="$PROJECT_DIR$/AndroidText14_Intent" />
+            <option value="$PROJECT_DIR$/AndroidText15_IntentCallPhone" />
+            <option value="$PROJECT_DIR$/AndroidText17_SharedPreferences" />
+            <option value="$PROJECT_DIR$/AndroidText18_InternalStorage" />
+            <option value="$PROJECT_DIR$/AndroidText19_SDFile" />
+            <option value="$PROJECT_DIR$/AndroidText1_HelloWorld" />
+            <option value="$PROJECT_DIR$/AndroidText20_SQLite" />
+            <option value="$PROJECT_DIR$/AndroidText21_ContentProvider" />
+            <option value="$PROJECT_DIR$/AndroidText22_AccessContactorInformation" />
+            <option value="$PROJECT_DIR$/AndroidText23_ContentObserver" />
+            <option value="$PROJECT_DIR$/AndroidText24_startService" />
+            <option value="$PROJECT_DIR$/AndroidText25_bindService" />
+            <option value="$PROJECT_DIR$/AndroidText26_Handler" />
+            <option value="$PROJECT_DIR$/AndroidText27_Broadcast" />
+            <option value="$PROJECT_DIR$/AndroidText28_MediaPlayer" />
+            <option value="$PROJECT_DIR$/AndroidText29_TakePhoto" />
+            <option value="$PROJECT_DIR$/AndroidText2_Logcat" />
+            <option value="$PROJECT_DIR$/AndroidText30_Drawing" />
+            <option value="$PROJECT_DIR$/AndroidText3_Componet" />
+            <option value="$PROJECT_DIR$/AndroidText4_ListView" />
+            <option value="$PROJECT_DIR$/AndroidText6_Menu" />
+            <option value="$PROJECT_DIR$/AndroidText7_Dialog" />
+            <option value="$PROJECT_DIR$/AndroidText8_LifeCycle" />
+            <option value="$PROJECT_DIR$/AndroidText9_AnotherActivity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
